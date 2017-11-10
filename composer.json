@@ -1,0 +1,6 @@
+{
+    "require": {
+        "bramus/router": "~1.2",
+        "league/plates": "^3.3"
+    }
+}
